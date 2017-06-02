@@ -1,1 +1,1 @@
-So far: a Jupyter notebook for evaluating TensorFlow models on UWHC breast cancer datasets: http://archive.ics.uci.edu/ml/datasets/
+Using TensorFlow and Jupyter Notebook to evaluate tumor classification models on breast cancer data.
