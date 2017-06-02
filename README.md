@@ -1,1 +1,1 @@
-Repository for evaluating learning models using TensorFlow in Jupyter Notebook.
+Repository for evaluating learning models using TensorFlow and Jupyter Notebook.
